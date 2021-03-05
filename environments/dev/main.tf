@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Data Lake CI/CD Test 1
+# Data Lake CI/CD Test 2
 
 terraform {
   required_version = ">= 0.12.0"
